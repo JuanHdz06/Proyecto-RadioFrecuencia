@@ -1,0 +1,191 @@
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\WRESVB.Form1.resources
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\WRESVB.Resources.resources
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\WRESVB.vbproj.GenerateResource.Cache
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\bin\Debug\WRESVB.exe
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\bin\Debug\WRESVB.pdb
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\bin\Debug\WRESVB.xml
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\WRESVB.exe
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\WRESVB.xml
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\WRESVB.pdb
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\WRESVB.vbproj.ResolveComReference.cache
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\obj\Debug\WRESVB.UserControl1.resources
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB\WRESVB\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB(winsock)\WRESVB\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB(winsock)\WRESVB\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.vbproj.ResolveComReference.cache
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.exe
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.xml
+C:\Users\Accsys\Documents\Visual Studio 2008\Projects\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.pdb
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\Interop.MSWinsockLib.dll
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.vbproj.ResolveComReference.cache
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.exe
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.xml
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.pdb
+C:\SQL\eje\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.exe
+C:\SQL\eje\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.pdb
+C:\SQL\eje\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.xml
+C:\SQL\eje\WRESVB(winsock)\WRESVB\bin\Debug\Interop.MSWinsockLib.dll
+C:\SQL\eje\WRESVB(winsock)\WRESVB\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\ResolveAssemblyReference.cache
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.Form1.resources
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.Resources.resources
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.UserControl1.resources
+C:\SQL\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.vbproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.vbproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.exe
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.xml
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.pdb
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.exe
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.pdb
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.xml
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\bin\Debug\office.dll
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\bin\Debug\office.xml
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.Form1.resources
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.Resources.resources
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.UserControl1.resources
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.vbproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.exe
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.pdb
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.exe
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.pdb
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\bin\Debug\office.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\bin\Debug\office.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.Form1.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.Resources.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.UserControl1.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan\WRESVB(winsock)\WRESVB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.vbproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.exe
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.pdb
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.exe
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.pdb
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\bin\Debug\WRESVB.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\bin\Debug\office.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\bin\Debug\office.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.Form1.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.Resources.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\WRESVB.UserControl1.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB(winsock)\WRESVB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\WRESVB.vbproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\WRESVB.exe
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\WRESVB.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\WRESVB.pdb
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\bin\Debug\WRESVB.exe
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\bin\Debug\WRESVB.pdb
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\bin\Debug\WRESVB.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\bin\Debug\office.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\bin\Debug\office.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\WRESVB.Form1.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\WRESVB.LoginForm1.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\WRESVB.Resources.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\WRESVB.UserControl1.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB Editado\WRESVB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.vbproj.ResolveComReference.cache
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.exe
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.pdb
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\WRESVB.exe
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\WRESVB.pdb
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\WRESVB.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\office.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\office.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.Form1.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.LoginForm1.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.Resources.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.UserControl1.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.Principal.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\MetroFramework.Design.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\MetroFramework.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.AdminForm.resources
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\WRESVB.exe.manifest
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\bin\Debug\WRESVB.application
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.TrustInfo.xml
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.exe.manifest
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.application
+C:\Users\Eric\Desktop\Ejemplos Funcionales Juan2\WRESVB CasiFinal\WRESVB\obj\Debug\GenerateResource.read.2.tlog
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.vbproj.ResolveComReference.cache
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.exe
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.xml
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.pdb
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\WRESVB.exe.manifest
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\WRESVB.application
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\WRESVB.exe
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\WRESVB.pdb
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\WRESVB.xml
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\MetroFramework.Design.dll
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\MetroFramework.dll
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\office.dll
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\office.xml
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.vbprojResolveAssemblyReference.cache
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.AdminForm.resources
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.Form1.resources
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.LoginForm1.resources
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.Resources.resources
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.Principal.resources
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.UserControl1.resources
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.vbproj.GenerateResource.Cache
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.TrustInfo.xml
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.exe.manifest
+C:\Users\Hernandez\Desktop\Proyecto Radiofrecuencia\WRESVB CasiFinal\WRESVB\obj\Debug\WRESVB.application

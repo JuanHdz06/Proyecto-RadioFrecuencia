@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WRESVB", "WRESVB\WRESVB.vbproj", "{4E3FAF84-8204-43AE-AD64-0372FE4A82D1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ReadWrite", "ReadWrite\ReadWrite.vdproj", "{82342C98-4CDC-4A6A-A512-C02567FE78A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E3FAF84-8204-43AE-AD64-0372FE4A82D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3FAF84-8204-43AE-AD64-0372FE4A82D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3FAF84-8204-43AE-AD64-0372FE4A82D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3FAF84-8204-43AE-AD64-0372FE4A82D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82342C98-4CDC-4A6A-A512-C02567FE78A2}.Debug|Any CPU.ActiveCfg = Debug
+		{82342C98-4CDC-4A6A-A512-C02567FE78A2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

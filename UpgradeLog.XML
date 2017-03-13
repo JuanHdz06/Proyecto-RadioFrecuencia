@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WRESVB">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\Eric\Desktop\eje\WRESVB(winsock)\WRESVB.suo">
+</Property><Property Name="Date" Value="lunes, 01 de junio de 2015">
+</Property><Property Name="Time" Value="13:29 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WRESVB.sln" Description="La copia C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="WRESVB.suo" Description="La copia C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\WRESVB.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\WRESVB.vbproj">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\WRESVB.vbproj.user" Description="La copia de seguridad C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\WRESVB.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\Form1.vb">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\Form1.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\UserControl1.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\UserControl1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\UserControl1.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\UserControl1.vb">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\UserControl1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\WRESVB\UserControl1.resx">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\WRESVB.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="WRESVB" Source="WRESVB\WRESVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ReadWrite.vdproj" Source="ReadWrite\ReadWrite.vdproj" Description="La copia de seguridad del archivo de proyecto se realizó correctamente: C:\Users\Eric\Desktop\eje\WRESVB(winsock)\Backup\ReadWrite\ReadWrite.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="WRESVB.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="WRESVB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WRESVB" Source="WRESVB\WRESVB.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
